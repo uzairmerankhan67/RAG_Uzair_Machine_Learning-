@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img alt="Agentic RAG for Dummies Logo" src="assets/logo.png" width="350px">
 </p>
@@ -1247,3 +1248,6 @@ Agent: [Retrieves and answers with specific information]
 | **Embedding Model Quality** | - Poor semantic search<br>- Weak performance on domain-specific or multilingual docs | - Use higher-quality or domain-specific embeddings<br>- Re-index all documents after changing embeddings |
 
 > 💡 **For additional troubleshooting tips** see the [README Troubleshooting](./project/README.md#troubleshooting).
+=======
+# RAG_Uzair_Machine_Learning-
+>>>>>>> fc02486c57e3b09d2166040eea89be09c2e6cead
